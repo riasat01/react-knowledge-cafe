@@ -1,0 +1,52 @@
+[
+    {
+        "id": 12345,
+        "cover": "https://i.postimg.cc/htKjx6cN/computer-4484282-1280.jpg",
+        "title": "The Mystery of the Lost Artifact",
+        "author": "Jane Smith",
+        "author_img": "https://i.postimg.cc/s2Y1hzhF/pexels-pixabay-220453.jpg",
+        "post_date": "September 5, 2023",
+        "reading_time": 15,
+        "hashtags": ["#Mystery", "#Adventure", "#Archaeology"]
+    },
+    {
+        "id": 67890,
+        "cover": "https://i.postimg.cc/R0cX8WjW/6239792.jpg",
+        "title": "Cooking Around the World",
+        "author": "David Lee",
+        "author_img": "https://i.postimg.cc/s2Y1hzhF/pexels-pixabay-220453.jpg",
+        "post_date": "August 20, 2023",
+        "reading_time": 10,
+        "hashtags": ["#Cooking", "#Recipes", "#Foodie"]
+    },
+    {
+        "id": 23456,
+        "cover": "https://i.postimg.cc/R0cX8WjW/6239792.jpg",
+        "title": "The Art of Photography",
+        "author": "Sarah Adams",
+        "author_img": "https://i.postimg.cc/s2Y1hzhF/pexels-pixabay-220453.jpg",
+        "post_date": "July 12, 2023",
+        "reading_time": 20,
+        "hashtags": ["#Photography", "#Art", "#Creativity"]
+    },
+    {
+        "id": 78901,
+        "cover": "https://i.postimg.cc/tgC8ht1X/carlos-muza-hpj-Sk-U2-UYSU-unsplash.jpg",
+        "title": "Tech Trends: A Look into the Future",
+        "author": "John Johnson",
+        "author_img": "https://i.postimg.cc/s2Y1hzhF/pexels-pixabay-220453.jpg",
+        "post_date": "June 30, 2023",
+        "reading_time": 12,
+        "hashtags": ["#Technology", "#Future", "#Innovation"]
+    },
+    {
+        "id": 34567,
+        "cover": "https://i.postimg.cc/3JtXkXHj/andrew-neel-cckf4-Ts-HAuw-unsplash.jpg",
+        "title": "Fitness and Well-being: Your Path to a Healthier Life",
+        "author": "Emily Turner",
+        "author_img": "https://i.postimg.cc/s2Y1hzhF/pexels-pixabay-220453.jpg",
+        "post_date": "May 15, 2023",
+        "reading_time": 25,
+        "hashtags": ["#Fitness", "#Wellness", "#Health"]
+    }
+]
